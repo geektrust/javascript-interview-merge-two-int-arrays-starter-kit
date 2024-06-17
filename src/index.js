@@ -28,8 +28,8 @@ function main() {
     const arr2 = JSON.parse(input[1])
 
     const merged = mergeArrays(arr1, arr2)
-    console.log(merged)
-    // console.log(JSON.stringify(merged))
+    // console.log(merged)
+    console.log(JSON.stringify(merged))
 }
 
 
